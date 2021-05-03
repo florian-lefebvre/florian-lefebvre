@@ -4,6 +4,8 @@ I am a French student who likes to program on his free time since 2018, when I d
 
 Feel free to contact me and give stars if you like what I do!
 
+![](https://hit.yhype.me/github/profile?user_id=69633530)
+
 <a href="https://github.com/florian-lefebvre">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=florian-lefebvre&show_icons=true" />
 </a>
