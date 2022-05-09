@@ -2,7 +2,7 @@
 
 I'm a French self-taught fullstack developer. I enjoy designing and creating beautiful, functional websites as well as mobile apps. I've been coding for more than 2 years now.
 
-I've been working on [yNotes](https://ynotes.fr) lately, a school life mobile application that connects French students to their school services.
+I'm a French self-taught fullstack developer. I enjoy designing and creating beautiful, functional websites as well as mobile apps. I've been coding for more than 2 years now. I've been working on a [Nuxt3 starter template](https://github.com/florian-lefebvre/nuxt3-starter-medusa) for [Medusa](https://medusajs.com/) lately, an headless Open Source Shopify alternative.
 
 Feel free to contact me and give stars if you like what I do!
 
