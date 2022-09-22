@@ -11,5 +11,13 @@ Feel free to contact me and give stars if you like what I do!
 [Website](https://florian-lefebvre.dev)
 
 <div height="20"></div>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=florian-lefebvre&title=Visitors)
+<details>
+  <summary>
+    
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=florian-lefebvre&title=Visitors&format=true)
+    
+  </summary>
+    
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=florian-lefebvre&title=Visitors&query_only=true)
+  
+</details>
