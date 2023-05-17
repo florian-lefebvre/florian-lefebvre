@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=florian-lefebvre&theme=onedark" alt="florian-lefebvre" /></a> </p>
 
-- 🔭 I’m currently working (and need some help) on [**op-ent**](https://github.com/op-ent/op-ent)
+- 🔭 I’m currently freelancing. Feel free to contact me!
 
 - 🌱 I’m currently learning **Remix, AdonisJS**
 
