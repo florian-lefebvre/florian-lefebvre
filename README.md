@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently freelancing. Feel free to contact me!
 
-- 🌱 I’m currently learning **Remix, AdonisJS**
+- 🌱 I’m currently learning **Next 13, Framer Motion and Capacitor**
 
 - 👨‍💻 My tech stack, my projects and more are available at [**https://florian-lefebvre.dev**](https://florian-lefebvre.dev)
 
