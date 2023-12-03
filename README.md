@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently freelancing. Feel free to contact me!
 
-- 🌱 I’m currently learning **Expo, React Native and Clean Architecture / TDD**
+- 🌱 I’m currently learning **XState, Clean Architecture and Testing**
 
 - 👨‍💻 My tech stack, my projects and more are available at [**https://florian-lefebvre.dev**](https://florian-lefebvre.dev)
 
