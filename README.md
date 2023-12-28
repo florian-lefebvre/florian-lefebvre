@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋, I'm Florian Lefebvre</h1>
-<h3 align="center">A passionate full-stack developer from France</h3>
+## Hi all! 👋
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=florian-lefebvre&title=Visitors&format=true)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=florian-lefebvre&theme=onedark" alt="florian-lefebvre" /></a> </p>
-
-- 🔭 I’m currently freelancing. Feel free to contact me!
+- 🔭 I'm a French web fullstack developer working as a freelancer. I love Open-Source and I've been an [Astro](https://github.com/withastro) maintainer since December 2023.
 
 - 🌱 I’m currently learning **XState, Clean Architecture and Testing**
 
-- 👨‍💻 My tech stack, my projects and more are available at [**https://florian-lefebvre.dev**](https://florian-lefebvre.dev)
+- 👨‍💻 I deeply enjoy working with Astro, Typescript and Tailwind CSS to craft quality websites and interfaces.
 
-- 📫 How to reach me **contact@florian-lefebvre.dev**
+- 👉 You can find out more info and other social links [on my website](https://florian-lefebvre.dev).
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=florian-lefebvre&title=Visitors&format=true)
+
+<details>
+
+  <summary>Stats</summary>
+
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=florian-lefebvre&theme=onedark" alt="florian-lefebvre" /></a> </p>
+  
+</details>
