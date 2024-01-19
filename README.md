@@ -8,6 +8,7 @@
 A few Astro projects:
 
 - [Astro Integration template](https://github.com/florian-lefebvre/astro-integration-template)
+- [Astro Env](https://github.com/florian-lefebvre/astro-env)
 - [Tailwind Config Viewer Integration](https://github.com/florian-lefebvre/astro-tailwind-config-viewer)
 - [Dev Plugin to reboot your computer](https://github.com/florian-lefebvre/astro-dev-plugin-reboot) (will be reworked soon)
 - *More coming soon...*
