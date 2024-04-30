@@ -11,7 +11,7 @@ A few Astro projects:
 - [Astro Env](https://github.com/florian-lefebvre/astro-env)
 - [Astro Loading Indicator](https://github.com/florian-lefebvre/astro-loading-indicator)
 - [Astro Integration Kit](https://github.com/florian-lefebvre/astro-integration-kit)
-- [Astro ALS](https://github.com/florian-lefebvre/astro-als)
+- [Astro ALS](https://github.com/florian-lefebvre/astro-als) (NEW!)
 - [Tailwind Config Viewer Integration](https://github.com/florian-lefebvre/astro-tailwind-config-viewer)
 - [Satori Astro](https://github.com/florian-lefebvre/satori-astro)
 - *More coming soon...*
