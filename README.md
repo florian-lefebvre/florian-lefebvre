@@ -1,7 +1,7 @@
 ## Hi all! 👋
 
 - 🔭 I'm a French web fullstack developer working as a freelancer. I love Open-Source and I've been an [Astro](https://github.com/withastro) maintainer since December 2023.
-- 🌱 I’m currently learning **XState, Clean Architecture and Testing**
+- 🌱 I’m currently learning **TRPC, Drizzle and Astro core internals**
 - 👨‍💻 I deeply enjoy working with Astro, Typescript and Tailwind CSS to craft quality websites and interfaces.
 - 👉 You can find out more info and other social links [on my website](https://florian-lefebvre.dev).
 
