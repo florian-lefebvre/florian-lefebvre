@@ -8,7 +8,6 @@
 A few Astro projects:
 
 - [Astro Integration template](https://github.com/florian-lefebvre/astro-integration-template)
-- [Astro Env](https://github.com/florian-lefebvre/astro-env)
 - [Astro Loading Indicator](https://github.com/florian-lefebvre/astro-loading-indicator)
 - [Astro Integration Kit](https://github.com/florian-lefebvre/astro-integration-kit)
 - [Astro ALS](https://github.com/florian-lefebvre/astro-als) (NEW!)
