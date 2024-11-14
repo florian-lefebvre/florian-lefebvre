@@ -1,18 +1,10 @@
-## Hi all! 👋
+## Hi 👋 I'm Florian
 
-- 🔭 I'm a French web fullstack developer working as a freelancer. I love Open-Source: I've been an [Astro](https://github.com/withastro) maintainer since December 2023 and core maintainer since June 2024
-- 👨‍💻 I deeply enjoy working with Astro, Typescript and Tailwind CSS to craft quality websites and interfaces.
-- 👉 You can find out more info and other social links [on my website](https://florian-lefebvre.dev).
+I'm a fullstack web developer working as a freelance, remotely from France. I'm also an [Astro](https://astro.build/) [core maintainer](https://github.com/withastro/.github/blob/main/MEMBERS.md).
 
-A few Astro projects:
+You can find me pretty much everywhere, you can get the links through [my website](https://florian-lefebvre.dev/).
 
-- [Astro Typed Links](https://github.com/florian-lefebvre/astro-typed-links) (NEW!)
-- [Astro Loading Indicator](https://github.com/florian-lefebvre/astro-loading-indicator)
-- [Astro Integration Kit](https://github.com/florian-lefebvre/astro-integration-kit)
-- [Astro Integration template](https://github.com/florian-lefebvre/astro-integration-template)
-- [Tailwind Config Viewer Integration](https://github.com/florian-lefebvre/astro-tailwind-config-viewer)
-- [Satori Astro](https://github.com/florian-lefebvre/satori-astro)
-- *More coming soon...*
+I'm currently working on Astro websites, the Astro framework and community Astro integrations. 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=florian-lefebvre&title=Visitors&format=true)
 
